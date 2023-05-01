@@ -1,6 +1,6 @@
 # Importações
 
-import pymongo
+import Flask_COLAB.pymongo as pymongo
 import datetime
 import pprint
 
